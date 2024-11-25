@@ -3,11 +3,11 @@ G001,0.03,Elliptcal,AGN,-20.5,Johnston+22,No issues
 G002,-0.12,Spiral,SF,-21.1,Smith+20,High velocity
 G003,0.2,Irregular,None,-18.3,Clark_21,Starburst activity
 G004,0.05,Elliptical,Star Formation,-19.7,Lee+23,Low metallicity
-G005,0.15,Spiral,SF,-10.0,Doe+19,Active nucleus
+G005,0.15,Spiral,SF,-22.0,Doe+19,Active nucleus
 G006,0.07,Irregular,None,-17.8,Brown+22,Cluster neighbor
 G007,0.1,Elliptical,AGN,-20.2,Green+21,Isolated galaxy
 G008,0.18,Spirral,SF,-21.3,Taylor+20,Edge-on spiral
-G009,0.02,Irregular,None,-19.0,Evans+23_extra,Compact
+G009,0.02,Irregular,None,-19.0,Evans+23,Compact
 G010,0.13,Elliptical,AGN activity,-20.7,Wilson+22,Diffuse
 G011,0.22,Spiral,SF,-25.0,Martinez+20,High mass
 G012,0.11,Irregular,None,-18.5,Chen+21,Low mass
@@ -15,7 +15,7 @@ G013,0.11,Elliptical,AGN,-19.6,Thompson+23,Dust peak
 G014,0.16,Elliptiacl,SF,-21.4,Roberts+22,Star formation peak
 G015,0.14,Irregular,Star-Forming,-18.9,Davis+19,Interaction signs
 G016,0.19,Elliptical,AGN,-20.0,Hall_20,High metallicity
-G017,0.09,Spiral,SF,-5.0,Gonzalez+22,Intermediate age
+G017,0.09,Spiral,SF,-19.5,Gonzalez+22,Intermediate age
 G018,0.06,Iregular,None,-18.0,Adams+21,Young population
 G019,1.8,Elliptical,AGN,-21.7,Mitchell+23,Passive
 G020,0.21,Spiral,SF,-22.3,Young+20,AGN detected
